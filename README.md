@@ -155,17 +155,10 @@ sudo python3 led_control_blynk.py
 
 ---
 
-## GitHub Repository
+## Author
+Misbah Rafique
 
 * Repository: [https://github.com/Misbah81](https://github.com/Misbah81)
-
----
-
-✅ Optional Enhancements:
-
-* Add multiple LEDs (GPIO19, GPIO20…) and buttons in Blynk.
-* Add dashboard features: slider, LED indicator, or RGB LED control.
-* Organize setup images and diagrams in `assets/` folder.
 
 ---
 
