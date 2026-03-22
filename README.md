@@ -70,7 +70,6 @@ IoT (Internet of Things) enables controlling devices remotely. This project demo
 * LED **anode (+)** → GPIO18 via 220Ω resistor
 * LED **cathode (-)** → GND
 
-![Circuit Diagram]
 
 ## Blynk App Setup
 
