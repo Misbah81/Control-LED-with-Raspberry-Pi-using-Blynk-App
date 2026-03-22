@@ -87,6 +87,10 @@ IoT (Internet of Things) enables controlling devices remotely. This project demo
    * Pin: **V0**
    * Mode: **Switch**
    * Name: **LED**
+<img width="335" height="749" alt="image" src="https://github.com/user-attachments/assets/adc1676a-fa47-4451-9427-735c796bbeb8" />
+<img width="288" height="637" alt="image" src="https://github.com/user-attachments/assets/57383aa5-117f-4591-932d-89a836a8727e" />
+
+
 
 4. Copy **Auth Token** generated for the project and replace in your Python code:
 
