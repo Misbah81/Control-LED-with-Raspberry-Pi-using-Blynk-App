@@ -89,6 +89,7 @@ IoT (Internet of Things) enables controlling devices remotely. This project demo
 <img width="287" height="642" alt="image" src="https://github.com/user-attachments/assets/eb0ace32-4802-43a2-98c3-b7844c1b161b" />
 <img width="288" height="637" alt="image" src="https://github.com/user-attachments/assets/57383aa5-117f-4591-932d-89a836a8727e" />
 
+<img width="973" height="603" alt="image" src="https://github.com/user-attachments/assets/36687248-6a2d-4238-9b0c-4534da11fb99" />
 
 
 4. Copy **Auth Token** generated for the project and replace in your Python code:
