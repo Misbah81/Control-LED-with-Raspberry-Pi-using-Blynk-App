@@ -39,7 +39,7 @@ IoT (Internet of Things) enables controlling devices remotely. This project demo
 * 7” HDMI Display (800x480)
 * LED (any color)
 * 220Ω Resistor
-* Jumper Wires (Male-to-Female)
+* Jumper Wires 
 * Breadboard
 * Micro SD Card (16GB+)
 
